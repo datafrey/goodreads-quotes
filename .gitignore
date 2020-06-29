@@ -1,0 +1,7 @@
+*.sqlite
+*.pkl
+*.npy
+*.gs
+*.id2word
+*.state
+gsdmm/
